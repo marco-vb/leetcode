@@ -12,3 +12,4 @@ public:
         return *max_element(mem.begin(), mem.end());
     }
 };
+
