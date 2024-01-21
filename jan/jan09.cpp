@@ -26,3 +26,4 @@ public:
         return leaves(root1) == leaves(root2);
     }
 };
+
